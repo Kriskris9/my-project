@@ -48,13 +48,15 @@ body {
   font-family: 'Arial', sans-serif;
   background-color: #f8f8f8;
   color: #333;
+  background-image: url("/public/images/background.jpg") !important;
 }
+
 
 .container {
   max-width: 960px;
   margin: 0 auto;
   padding: 20px;
-  background-image: url("/public/images/background.jpg");
+
 }
 
 
